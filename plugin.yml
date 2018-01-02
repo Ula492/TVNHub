@@ -1,0 +1,21 @@
+name: TVNHub
+version: 1.0
+main: net.thevoidmc.ula.Main
+description: "TVNHub Main plugin"
+author: Ula492
+
+commands:
+  punish:
+    description: Ban a player
+
+permissions:
+  punish.gui:
+    description: Punish
+  Rank.Particle.Water:
+    default: op
+  Rank.Particle.Air:
+    default: op
+  Rank.Particle.Fire:
+    default: op
+  Rank.Particle.Default:
+    default: op

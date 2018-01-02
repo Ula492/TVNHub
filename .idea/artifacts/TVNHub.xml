@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TVNHub">
+    <output-path>$USER_HOME$/Desktop/TheVoidNetwork/Hub/plugins</output-path>
+    <root id="archive" name="TVNHub.jar">
+      <element id="module-output" name="TVNHub" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
